@@ -1,5 +1,4 @@
-<img src="https://github.com/Ali7U/angular-password-generator/assets/113184805/f5c4e65a-b802-4f27-8bf9-cb70903ad420.png" width="950" height="850">
-![Image 26-06-1445 AH at 11 07 AM](https://github.com/Ali7U/angular-password-generator/assets/113184805/f5c4e65a-b802-4f27-8bf9-cb70903ad420)
+<img src="https://github.com/Ali7U/angular-password-generator/assets/113184805/f5c4e65a-b802-4f27-8bf9-cb70903ad420.png" width="450" height="450">
 
 
 # Lab1
