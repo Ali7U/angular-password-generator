@@ -1,3 +1,5 @@
+Try it yourself : https://pwd-q72rfo7mt-alis-projects-d6cd7f2a.vercel.app
+
 <img src="https://github.com/Ali7U/angular-password-generator/assets/113184805/f5c4e65a-b802-4f27-8bf9-cb70903ad420.png" width="650" height="450">
 
 
