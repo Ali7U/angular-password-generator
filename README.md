@@ -1,4 +1,4 @@
-<img src="https://github.com/Ali7U/angular-password-generator/assets/113184805/f5c4e65a-b802-4f27-8bf9-cb70903ad420.png" width="450" height="450">
+<img src="https://github.com/Ali7U/angular-password-generator/assets/113184805/f5c4e65a-b802-4f27-8bf9-cb70903ad420.png" width="650" height="450">
 
 
 # Lab1
