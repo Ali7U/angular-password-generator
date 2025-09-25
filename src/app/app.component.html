@@ -1,5 +1,5 @@
-<div class="container">
-  <div class="columns is-centered">
+<div class="container is-fullheight hero is-justify-content-center">
+  <div class="columns is-centered is-fullheight">
     <div class="box column is-one-third">
       <h1 class="title has-text-centered">Password Generator</h1>
 
@@ -35,9 +35,13 @@
         </div>
       </div>
 
-      <button [disabled]="
+      <button
+        [disabled]="
           !(length && (includesLetters || includesSymbols || includesNumbers))
-        " (click)="onButtonClick()" class="button is-link is-fullwidth">
+        "
+        (click)="onButtonClick()"
+        class="button is-link is-fullwidth"
+      >
         Generate!
       </button>
 
